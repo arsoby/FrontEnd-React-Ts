@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&display=swap');
+
+* {
+    
+    font-family: 'Cairo', sans-serif;
+}
+
+.marquee {
+
+    background-color: '#001F33';
+    
+}
